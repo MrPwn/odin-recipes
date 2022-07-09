@@ -1,0 +1,16 @@
+.food-pic {
+    height: auto;
+    width: 400px;
+}
+
+ol {
+    font-family: "Helvetica","Times New Roman",sans-serif;
+}
+
+ul {
+    font-family: "Helvetica","Times New Roman",sans-serif;
+}
+
+h3 {
+    background-color: aqua;
+}
